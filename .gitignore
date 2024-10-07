@@ -1,0 +1,19 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid uploading auto-generated Visual Studio/MonoDevelop project files
+*.csproj
+*.sln
+*.user
+
+# Ignore build files and logs
+*.exe
+*.apk
+*.aab
+*.stacktrace
